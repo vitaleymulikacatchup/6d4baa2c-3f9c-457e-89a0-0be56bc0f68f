@@ -133,11 +133,11 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",              name: "Sarah Mitchell",              handle: "@sarahmitch",              testimonial: "The quality is exceptional! My Bakteria cup has become my daily essential. The craftsmanship is obvious from the first use.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-business-woman-portrait-outdoors_23-2148603027.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/side-view-business-woman-portrait-outdoors_23-2148603027.jpg?_wi=1"
             },
             {
               id: "2",              name: "James Chen",              handle: "@jameschen",              testimonial: "Outstanding value for money. These cups keep my coffee hot for hours and look beautiful on my desk. Highly recommend!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/pensive-person-alone-corridor-serious_1262-1042.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/pensive-person-alone-corridor-serious_1262-1042.jpg?_wi=1"
             },
             {
               id: "3",              name: "Emma Rodriguez",              handle: "@emmarod",              testimonial: "I've purchased multiple sets for my office. Everyone comments on how elegant they are. Perfect gift option too!",              rating: 5,
@@ -149,11 +149,11 @@ export default function LandingPage() {
             },
             {
               id: "5",              name: "Lisa Park",              handle: "@lisapark",              testimonial: "Customer service is amazing! They went above and beyond to help with my order. Will definitely buy again.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-business-woman-portrait-outdoors_23-2148603027.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/side-view-business-woman-portrait-outdoors_23-2148603027.jpg?_wi=2"
             },
             {
               id: "6",              name: "David Wilson",              handle: "@davidwil",              testimonial: "Best cups I've ever owned. The attention to detail is remarkable. Worth every penny!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/pensive-person-alone-corridor-serious_1262-1042.jpg"
+              imageSrc: "http://img.b2bpic.net/free-photo/pensive-person-alone-corridor-serious_1262-1042.jpg?_wi=2"
             }
           ]}
         />
